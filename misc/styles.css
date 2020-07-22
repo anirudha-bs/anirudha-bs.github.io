@@ -347,9 +347,12 @@ button:focus {
     }
     #logo{
         color: black;
-        font-size: small;
+        font-size: smaller;
     }
     #navigation {
         font-size: smaller;
+    }
+    .card{
+        font-size: small;
     }
 }
