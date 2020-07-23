@@ -43,7 +43,7 @@ body {
 }
 header {
     width: 100%;
-    padding:6vh 4vw;
+    padding:5vh 4vw;
     position:fixed;
     font-weight:bold;
     background:transparent;
@@ -55,10 +55,10 @@ header table {
     width:100%;
 }
 #logo {
-    width:20%;
+    width:30%;
 }
 #navigation {
-    width:80%;
+    width:100%;
 }
 #magnify {
     width:100vw;
@@ -347,10 +347,13 @@ button:focus {
     }
     #logo{
         color: black;
-        font-size: smaller;
+        font-size: small;
     }
     #navigation {
         font-size: smaller;
+    }
+    #me{
+        display: none;
     }
     .card{
         font-size: small;
