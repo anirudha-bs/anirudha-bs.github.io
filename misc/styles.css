@@ -201,6 +201,11 @@ header table {
     font-weight:bold;
 }
 
+.card{
+    background-color: grey;
+    color: white;
+}
+
 #photos {
     width:100%;
     columns:3;
@@ -356,6 +361,8 @@ button:focus {
         display: none;
     }
     .card{
-        font-size: small;
+        font-size: smaller;
+        background-color: grey;
+        color: white;
     }
 }
