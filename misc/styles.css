@@ -361,8 +361,10 @@ button:focus {
         display: none;
     }
     .card{
-        font-size: smaller;
         background-color: #333333;
         color: white;
     }
+    .card-title{
+    	font-size: smaller;
+    {
 }
