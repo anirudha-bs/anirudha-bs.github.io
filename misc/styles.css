@@ -365,6 +365,9 @@ button:focus {
         color: white;
     }
     .card-title{
-    	font-size: smaller;
-    {
+    	font-size: small;
+	}
+    .card-text{
+	font-size: smaller;
+	    }
 }
