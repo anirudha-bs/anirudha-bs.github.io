@@ -202,7 +202,7 @@ header table {
 }
 
 .card{
-    background-color: grey;
+    background-color: #333333;
     color: white;
 }
 
@@ -362,7 +362,7 @@ button:focus {
     }
     .card{
         font-size: smaller;
-        background-color: grey;
+        background-color: #333333;
         color: white;
     }
 }
