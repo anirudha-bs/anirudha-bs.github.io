@@ -361,7 +361,7 @@ button:focus {
         display: none;
     }
     .card{
-        font-size: x-small;
+        font-size: smaller;
         background-color: #333333;
         color: white;
     }
