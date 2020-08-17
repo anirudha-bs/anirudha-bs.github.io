@@ -369,5 +369,8 @@ button:focus {
 	}
     .card-text{
 	font-size: smaller;
-	    }
+	}
+    .comment.more{
+	font-size: smaller;
+	}
 }
