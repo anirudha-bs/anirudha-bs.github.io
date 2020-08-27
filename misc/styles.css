@@ -370,5 +370,7 @@ button:focus {
     .card-text{
 	font-size: smaller;
         }
-    
+    .work{
+        width: 100%;
+         }
 }
