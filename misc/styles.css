@@ -400,6 +400,9 @@ button:focus {
     #me{
         display: none;
     }
+    #work{
+        width: 100%;
+         }
     .card{
         background-color: #333333;
         color: white;
@@ -410,7 +413,4 @@ button:focus {
     .card-text{
 	font-size: smaller;
         }
-    #works{
-        width: 100%;
-         }
 }
