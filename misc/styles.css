@@ -408,9 +408,9 @@ button:focus {
         color: white;
     }
     .card-title{
-    	font-size: small;
+    	font-size: medium;
 	}
     .card-text{
-	font-size: smaller;
+	font-size: small;
         }
 }
