@@ -89,6 +89,10 @@ header table {
     background-repeat:no-repeat !important;
     margin:0px auto;
 }
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
 #logo {
     font-size:24px;
     color:rgb(255, 44, 90);
@@ -208,16 +212,8 @@ header table {
 
 #photos {
     width:100%;
-    columns:3;
-    column-gap:4%;
-    z-index:1;
-    transition:0.4s ease-in-out;
 }
-#photos img {
-    width:100%;
-    height:auto;
-    margin:4.5% 0px;
-    transition:0.4s ease-in-out;
+
 }
 #photos img:hover {
     transform: scale(1.1);
@@ -319,13 +315,6 @@ button:focus {
 
 @media (max-width: 1000px){
 
-    #photos {
-        columns:1;
-        column-gap:0%;
-        }
-    #photos img {
-        margin:2% 0px;
-    }
     #photos img:hover {
         transform: scale(1);
         cursor: pointer;
