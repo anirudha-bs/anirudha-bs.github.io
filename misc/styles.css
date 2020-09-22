@@ -376,6 +376,9 @@ button:focus {
     #me{
         display: none;
     }
+    #logo_image{
+        display: none;
+    }
     #work{
         width: 100%;
          }
